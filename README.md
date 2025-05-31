@@ -17,6 +17,8 @@ The goal is to **understand trends**, **optimize response times**, and **improve
 ✔ **Call Duration (Minutes)** → Total duration of the call.  
 ✔ **Call Center** → Corresponding call center.  
 
+. Link Dashboard: https://lookerstudio.google.com/s/k1cWPApcR8g
+
 ##  **Project Goals**  
 ✅ **Visualize key Call Center performance metrics.**  
 ✅ **Analyze customer satisfaction trends through Sentiment and CSAT Score.**  
