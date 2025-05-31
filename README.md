@@ -4,7 +4,7 @@
 This project focuses on analyzing customer satisfaction in a **Call Center**, using data collected in **Google Sheets** and visualized through an **interactive dashboard in Looker Studio**.  
 The goal is to **understand trends**, **optimize response times**, and **improve customer service efficiency**.  
 
-## 📊 **Included Data**  
+##  **Included Data**  
 ✔ **ID** → Unique identifier for each call.  
 ✔ **Customer Name** → Name of the attended customer.  
 ✔ **Sentiment** → Sentiment analysis (positive, negative, neutral).  
@@ -17,20 +17,20 @@ The goal is to **understand trends**, **optimize response times**, and **improve
 ✔ **Call Duration (Minutes)** → Total duration of the call.  
 ✔ **Call Center** → Corresponding call center.  
 
-## 🎯 **Project Goals**  
+##  **Project Goals**  
 ✅ **Visualize key Call Center performance metrics.**  
 ✅ **Analyze customer satisfaction trends through Sentiment and CSAT Score.**  
 ✅ **Optimize response times and SLA compliance.**  
 ✅ **Identify geographical patterns in call distribution and their impact on service quality.**  
 ✅ **Improve operational efficiency of agents and communication channels.**  
 
-## 🚀 **Technologies Used**  
+##  **Technologies Used**  
 ✔ **Google Sheets** → Data storage and management.  
 ✔ **Looker Studio** → Interactive dashboard creation.  
 ✔ **Python & Pandas** → Data cleaning and analysis.  
 ✔ **SQL** → Optimized queries to extract relevant insights.  
 
-## 🏆 **Expected Outcomes**  
+##  **Expected Outcomes**  
 🔹 Enhanced efficiency in call handling.  
 🔹 Reduced response times.  
 🔹 Improved customer experience based on real insights.  
