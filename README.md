@@ -17,7 +17,7 @@ The goal is to **understand trends**, **optimize response times**, and **improve
 ✔ **Call Duration (Minutes)** → Total duration of the call.  
 ✔ **Call Center** → Corresponding call center.  
 
-. Link Dashboard: https://lookerstudio.google.com/s/k1cWPApcR8g
+. Link Dashboard: [https://lookerstudio.google.com/s/k1cWPApcR8g](https://lookerstudio.google.com/reporting/7b494e32-a44e-4125-8f67-9b320e7cb2c3)
 
 ##  **Project Goals**  
 ✅ **Visualize key Call Center performance metrics.**  
